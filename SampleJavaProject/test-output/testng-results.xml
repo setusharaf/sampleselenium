@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T22:34:46 IST" name="Suite" finished-at="2022-11-21T22:37:55 IST" duration-ms="189336">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T22:34:46 IST" name="Test" finished-at="2022-11-21T22:35:17 IST" duration-ms="31436">
+      <class name="testng.JavaTodo">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.JavaTodo@5fdcaa40]" started-at="2022-11-21T22:34:46 IST" name="setUp" finished-at="2022-11-21T22:34:52 IST" duration-ms="6603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[107.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.JavaTodo@5fdcaa40]" started-at="2022-11-21T22:34:46 IST" name="setUp" finished-at="2022-11-21T22:34:51 IST" duration-ms="5612" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[107.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2()[pri:0, instance:testng.JavaTodo@5fdcaa40]" started-at="2022-11-21T22:34:51 IST" name="test2" finished-at="2022-11-21T22:35:16 IST" duration-ms="25209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test()[pri:0, instance:testng.JavaTodo@5fdcaa40]" started-at="2022-11-21T22:34:52 IST" name="test" finished-at="2022-11-21T22:35:17 IST" duration-ms="24796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.JavaTodo@5fdcaa40]" started-at="2022-11-21T22:35:16 IST" name="tearDown" finished-at="2022-11-21T22:35:17 IST" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.JavaTodo@5fdcaa40]" started-at="2022-11-21T22:35:17 IST" name="tearDown" finished-at="2022-11-21T22:35:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testng.JavaTodo -->
+    </test> <!-- Test -->
+    <test started-at="2022-11-21T22:35:17 IST" name="Firefox Test" finished-at="2022-11-21T22:36:15 IST" duration-ms="57729">
+      <class name="testng.JavaTodo">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.JavaTodo@293a5bf6]" started-at="2022-11-21T22:35:17 IST" name="setUp" finished-at="2022-11-21T22:35:34 IST" duration-ms="16730" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[106.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.JavaTodo@293a5bf6]" started-at="2022-11-21T22:35:17 IST" name="setUp" finished-at="2022-11-21T22:35:54 IST" duration-ms="36517" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[106.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:testng.JavaTodo@293a5bf6]" started-at="2022-11-21T22:35:34 IST" name="test" finished-at="2022-11-21T22:35:41 IST" duration-ms="7635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.JavaTodo@293a5bf6]" started-at="2022-11-21T22:35:41 IST" name="tearDown" finished-at="2022-11-21T22:35:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="test2()[pri:0, instance:testng.JavaTodo@293a5bf6]" started-at="2022-11-21T22:35:54 IST" name="test2" finished-at="2022-11-21T22:36:14 IST" duration-ms="20465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.JavaTodo@293a5bf6]" started-at="2022-11-21T22:36:14 IST" name="tearDown" finished-at="2022-11-21T22:36:15 IST" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testng.JavaTodo -->
+    </test> <!-- Firefox Test -->
+    <test started-at="2022-11-21T22:36:15 IST" name="Safari Test" finished-at="2022-11-21T22:36:16 IST" duration-ms="802">
+      <class name="testng.JavaTodo">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.JavaTodo@3c19aaa5]" started-at="2022-11-21T22:36:15 IST" name="setUp" finished-at="2022-11-21T22:36:16 IST" duration-ms="780" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[macos 10.13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.JavaTodo@3c19aaa5]" started-at="2022-11-21T22:36:15 IST" name="setUp" finished-at="2022-11-21T22:36:16 IST" duration-ms="774" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[macos 10.13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2()[pri:0, instance:testng.JavaTodo@3c19aaa5]" started-at="2022-11-21T22:36:16 IST" name="test2" finished-at="2022-11-21T22:36:16 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test()[pri:0, instance:testng.JavaTodo@3c19aaa5]" started-at="2022-11-21T22:36:16 IST" name="test" finished-at="2022-11-21T22:36:16 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.JavaTodo@3c19aaa5]" started-at="2022-11-21T22:36:16 IST" name="tearDown" finished-at="2022-11-21T22:36:16 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.JavaTodo@3c19aaa5]" started-at="2022-11-21T22:36:16 IST" name="tearDown" finished-at="2022-11-21T22:36:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testng.JavaTodo -->
+    </test> <!-- Safari Test -->
+    <test started-at="2022-11-21T22:36:16 IST" name="IE Test" finished-at="2022-11-21T22:37:10 IST" duration-ms="54081">
+      <class name="testng.JavaTodo">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.JavaTodo@351d00c0]" started-at="2022-11-21T22:36:16 IST" name="setUp" finished-at="2022-11-21T22:36:43 IST" duration-ms="27388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.JavaTodo@351d00c0]" started-at="2022-11-21T22:36:16 IST" name="setUp" finished-at="2022-11-21T22:36:24 IST" duration-ms="8178" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:testng.JavaTodo@351d00c0]" started-at="2022-11-21T22:36:24 IST" name="test" finished-at="2022-11-21T22:36:34 IST" duration-ms="9776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.JavaTodo@351d00c0]" started-at="2022-11-21T22:36:34 IST" name="tearDown" finished-at="2022-11-21T22:36:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="test2()[pri:0, instance:testng.JavaTodo@351d00c0]" started-at="2022-11-21T22:36:43 IST" name="test2" finished-at="2022-11-21T22:37:09 IST" duration-ms="26387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.JavaTodo@351d00c0]" started-at="2022-11-21T22:37:09 IST" name="tearDown" finished-at="2022-11-21T22:37:10 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testng.JavaTodo -->
+    </test> <!-- IE Test -->
+    <test started-at="2022-11-21T22:37:10 IST" name="Opera Test" finished-at="2022-11-21T22:37:55 IST" duration-ms="45199">
+      <class name="testng.JavaTodo">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.JavaTodo@18078bef]" started-at="2022-11-21T22:37:10 IST" name="setUp" finished-at="2022-11-21T22:37:29 IST" duration-ms="18918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[opera]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[85.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.JavaTodo@18078bef]" started-at="2022-11-21T22:37:10 IST" name="setUp" finished-at="2022-11-21T22:37:49 IST" duration-ms="39142" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[opera]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[85.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:testng.JavaTodo@18078bef]" started-at="2022-11-21T22:37:29 IST" name="test" finished-at="2022-11-21T22:37:36 IST" duration-ms="7347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.JavaTodo@18078bef]" started-at="2022-11-21T22:37:36 IST" name="tearDown" finished-at="2022-11-21T22:37:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="test2()[pri:0, instance:testng.JavaTodo@18078bef]" started-at="2022-11-21T22:37:49 IST" name="test2" finished-at="2022-11-21T22:37:54 IST" duration-ms="5674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.JavaTodo@18078bef]" started-at="2022-11-21T22:37:54 IST" name="tearDown" finished-at="2022-11-21T22:37:55 IST" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testng.JavaTodo -->
+    </test> <!-- Opera Test -->
+  </suite> <!-- Suite -->
+</testng-results>
