@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testng.JavaTodo">
+      <class name="com.questyAutomation.testcases.Sampletest">
         <methods>
-          <include name="setUp"/>
           <include name="tearDown"/>
-          <include name="test2"/>
-          <include name="test"/>
+          <include name="test3"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- testng.JavaTodo -->
+      </class> <!-- com.questyAutomation.testcases.Sampletest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
